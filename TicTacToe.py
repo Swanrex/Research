@@ -179,3 +179,8 @@ if __name__ == "__main__":
             cur_player = player2
         else:
             cur_player = player1
+
+# This TicTacToe was found on askpython from a person named Aprataksh Anand.
+# I've always wanted to create a new game similar to this, a simple easy to play
+# game based around true information like chess, Though in actuality such a game
+# like that would be best made in an area of complexity *between* tictactoe and chess.
